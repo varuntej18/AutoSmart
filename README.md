@@ -1,4 +1,4 @@
-
+## Heading 2
 # AutoSmart
 
 Making Engineering, a Reality for You
@@ -15,7 +15,7 @@ In this pandemic, situation E-learning has proved a new and efficient method. Fo
   
 ## Live Demo
 
-The site is deployed throught Vercel, which you can view from [here](https://auto-smart.vercel.app/)
+The site is deployed throught Vercel, which you can view from  [here](https://auto-smart.vercel.app/)
 
  Checkout the ppt from [here](https://www.canva.com/design/DAEqRBxYhNQ/2YENaqmc5UE2O6MC_OkBIg/view?utm_content=DAEqRBxYhNQ&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) 
 
