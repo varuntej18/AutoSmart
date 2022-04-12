@@ -69,4 +69,4 @@ AR in action
 ![App Screenshot](https://github.com/Madmaxcoder2612/AutoSmart/blob/main/ReadmeImg/Turbofan.png)
 
 Chat Bot
-![App Screenshot](https://github.com/Madmaxcoder2612/AutoSmart/blob/main/ReadmeImg/Chatbot.png)
+![App Screenshot](https://github.com/Madmaxcoder2612/AutoSmart/blob/main/ReadmeImg/Chatbot.png).
